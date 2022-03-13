@@ -6,4 +6,4 @@ All notes are organized as Facebook wall. The last messages are in the top.
 
 ## HL Object structure
 
-![HLObjects](.\Images\HLObjects.png)
+![HLObjects](./Images/HLObjects.png)
